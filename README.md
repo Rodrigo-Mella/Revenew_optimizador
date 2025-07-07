@@ -18,7 +18,7 @@ git clone https://github.com/Rodrigo-Mella/Revenew_optimizador.git
 Pararse dentro de la carpeta Revenew_test e instalar dependencias en la terminal de comandos ejecutando: 
 ```
 # Installation
-cd ./Revenew_test
+cd ./Revenew_optimizador
 pip install -r requirements.txt
 ```
     
@@ -30,7 +30,7 @@ Utilizando Django se genera una aplicación que accede al servidor, la cual perm
 La carpeta de trabajo contiene varios scripts de python asociados al optimizador y los códigos de funcionamiento de Django. En general se tiene la siguiente estructura de datos: 
 
 ```
-| Revenew_test/
+| Revenew_optimizador/
     |- databases/
     |--- data/optimization_problem_data.csv
     |
