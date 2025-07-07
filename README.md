@@ -15,7 +15,7 @@ Implementación de modelo optimizador de ingresos diarios de empresa manufacture
 git clone https://github.com/Rodrigo-Mella/Revenew_optimizador.git
 ```
 
-Pararse dentro de la carpeta Revenew_test e instalar dependencias en la terminal de comandos ejecutando: 
+Utilizando un environment con Python=3.10.18, pararse dentro de la carpeta Revenew_test e instalar dependencias en la terminal de comandos ejecutando: 
 ```
 # Installation
 cd ./Revenew_optimizador
