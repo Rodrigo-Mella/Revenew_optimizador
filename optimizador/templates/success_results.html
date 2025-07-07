@@ -1,0 +1,16 @@
+<html>
+<head>
+    <title>Upload CSV</title>
+</head>
+<body>
+  <h1>Optimizador Revenew</h1>
+
+      <h2>Resultado de la optimización:</h2>
+        <p>Solución óptima encontrada:</p>
+        <p>Cantidad de producto A: {{ ProductA }}</p>
+        <p>Cantidad de producto B: {{ ProductB }}</p>
+        <p>Máximo ingreso diario: {{ Income }}</p>
+        <a href="{% url 'load_and_optimize' %}">Volver</a>
+    
+</body>
+</html>
