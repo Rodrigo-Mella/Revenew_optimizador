@@ -65,7 +65,7 @@ En la terminal de comando parado dentro de la carpeta Revenew_test se debe ejecu
 
 ```
 # Correr servidor
-python .\manage.py runserver
+python manage.py runserver
 ```
 Una vez ejecutado, empezará a correr el servidor y se debe copiar y pegar el siguiente url http://127.0.0.1:8000/optimizador en el navegador a utilizar y dar ENTER.
 
@@ -79,7 +79,7 @@ En la terminal de comando parado dentro de la carpeta Revenew_test se debe ejecu
 
 ```
 # Correr main
-python .\main.py [ubicacion/archivo/csv]
+python main.py [ubicacion/archivo/csv]
 ```
 
 Se debe definir correctamente la ubicación del csv con los parámetros de restricción para el modelo de optimización y posteriormente ejecutar el comando. 
